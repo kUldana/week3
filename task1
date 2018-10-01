@@ -1,0 +1,38 @@
+<html>
+<head>
+<style>
+
+.letters div{
+  text-align: center;
+  color: white;
+  width: 40px;
+  border: transparent;
+  border-radius: 50px;
+  background-color: crimson;
+  font-size: 35px;
+  margin: 3px;
+}
+.letters{
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid crimson;
+}
+</style>
+</head>
+<body>
+<div class="letters">
+  <div>A</div>
+  <div>B</div>
+  <div>C</div>
+  <div>D</div>
+  <div>E</div>
+  <div>F</div>
+  <div>G</div>
+  <div>H</div>
+  <div>I</div>
+  <div>J</div>
+  <div>K</div>
+  <div>L</div>
+</div>
+</body>
+</html>
